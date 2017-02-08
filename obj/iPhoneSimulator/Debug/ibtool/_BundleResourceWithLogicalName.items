@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/LaunchScreen.nib">
+      <LogicalName>LaunchScreen.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/ResizingFrame.nib">
+      <LogicalName>ResizingFrame.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/1RA-Gt-Jd2-view-bsT-YJ-dOM.nib">
+      <LogicalName>Storyboard.storyboardc/1RA-Gt-Jd2-view-bsT-YJ-dOM.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/208-view-209.nib">
+      <LogicalName>Storyboard.storyboardc/208-view-209.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/2Or-Vv-fM0-view-iac-KH-Nca.nib">
+      <LogicalName>Storyboard.storyboardc/2Or-Vv-fM0-view-iac-KH-Nca.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/2zJ-D3-pwr-view-dRi-7w-y8B.nib">
+      <LogicalName>Storyboard.storyboardc/2zJ-D3-pwr-view-dRi-7w-y8B.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/6vU-ey-f8T-view-hNw-uA-ave.nib">
+      <LogicalName>Storyboard.storyboardc/6vU-ey-f8T-view-hNw-uA-ave.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/8iv-8J-2il-view-64V-7b-jMh.nib">
+      <LogicalName>Storyboard.storyboardc/8iv-8J-2il-view-64V-7b-jMh.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/AlertVC.nib">
+      <LogicalName>Storyboard.storyboardc/AlertVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/CAt-zo-nyx-view-flP-MJ-KyH.nib">
+      <LogicalName>Storyboard.storyboardc/CAt-zo-nyx-view-flP-MJ-KyH.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/CEEditContents.nib">
+      <LogicalName>Storyboard.storyboardc/CEEditContents.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/CESaveContents.nib">
+      <LogicalName>Storyboard.storyboardc/CESaveContents.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/CameraNavVC.nib">
+      <LogicalName>Storyboard.storyboardc/CameraNavVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/CameraVC.nib">
+      <LogicalName>Storyboard.storyboardc/CameraVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/CategorySingleFileCE.nib">
+      <LogicalName>Storyboard.storyboardc/CategorySingleFileCE.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/CategoryVC.nib">
+      <LogicalName>Storyboard.storyboardc/CategoryVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/Cfp-kr-4Qi-view-rtf-an-iqq.nib">
+      <LogicalName>Storyboard.storyboardc/Cfp-kr-4Qi-view-rtf-an-iqq.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/ConfirmInfoVC.nib">
+      <LogicalName>Storyboard.storyboardc/ConfirmInfoVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/CreateAccountJobVC.nib">
+      <LogicalName>Storyboard.storyboardc/CreateAccountJobVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/ERY-GN-2k3-view-48A-Ly-7Ue.nib">
+      <LogicalName>Storyboard.storyboardc/ERY-GN-2k3-view-48A-Ly-7Ue.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/Ghl-DC-1TU-view-kFr-JL-0kw.nib">
+      <LogicalName>Storyboard.storyboardc/Ghl-DC-1TU-view-kFr-JL-0kw.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/HomeVC.nib">
+      <LogicalName>Storyboard.storyboardc/HomeVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/IU5-RV-9gA-view-bhC-Hc-whM.nib">
+      <LogicalName>Storyboard.storyboardc/IU5-RV-9gA-view-bhC-Hc-whM.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/ImageViewVC.nib">
+      <LogicalName>Storyboard.storyboardc/ImageViewVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/Info.plist">
+      <LogicalName>Storyboard.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/LMB-4V-hsO-view-0oc-Hk-gKe.nib">
+      <LogicalName>Storyboard.storyboardc/LMB-4V-hsO-view-0oc-Hk-gKe.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/LoginVC.nib">
+      <LogicalName>Storyboard.storyboardc/LoginVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/MainTabBarMenu.nib">
+      <LogicalName>Storyboard.storyboardc/MainTabBarMenu.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/NotificationVC.nib">
+      <LogicalName>Storyboard.storyboardc/NotificationVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/OUt-wa-I9n-view-buz-e7-d6d.nib">
+      <LogicalName>Storyboard.storyboardc/OUt-wa-I9n-view-buz-e7-d6d.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/Onboarding1.nib">
+      <LogicalName>Storyboard.storyboardc/Onboarding1.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/Onboarding2.nib">
+      <LogicalName>Storyboard.storyboardc/Onboarding2.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/Onboarding3.nib">
+      <LogicalName>Storyboard.storyboardc/Onboarding3.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/PhotoAddingVC.nib">
+      <LogicalName>Storyboard.storyboardc/PhotoAddingVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/PhotoCroppingVC.nib">
+      <LogicalName>Storyboard.storyboardc/PhotoCroppingVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/ProfileVC.nib">
+      <LogicalName>Storyboard.storyboardc/ProfileVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/RegistrationNav.nib">
+      <LogicalName>Storyboard.storyboardc/RegistrationNav.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/RegistrationVC.nib">
+      <LogicalName>Storyboard.storyboardc/RegistrationVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/RmP-EV-n2R-view-jlB-g7-KF6.nib">
+      <LogicalName>Storyboard.storyboardc/RmP-EV-n2R-view-jlB-g7-KF6.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/SaveLocationVC.nib">
+      <LogicalName>Storyboard.storyboardc/SaveLocationVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/SearchVC.nib">
+      <LogicalName>Storyboard.storyboardc/SearchVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/SelectCategoryVC.nib">
+      <LogicalName>Storyboard.storyboardc/SelectCategoryVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/SelectJobVC.nib">
+      <LogicalName>Storyboard.storyboardc/SelectJobVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/SelectRoleVC.nib">
+      <LogicalName>Storyboard.storyboardc/SelectRoleVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/ThankyouVC.nib">
+      <LogicalName>Storyboard.storyboardc/ThankyouVC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/UINavigationController-xlN-c3-Zu9.nib">
+      <LogicalName>Storyboard.storyboardc/UINavigationController-xlN-c3-Zu9.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/UWv-Se-o9C-view-BPN-tR-3tQ.nib">
+      <LogicalName>Storyboard.storyboardc/UWv-Se-o9C-view-BPN-tR-3tQ.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/YAe-Gy-8cs-view-zRR-r4-ErU.nib">
+      <LogicalName>Storyboard.storyboardc/YAe-Gy-8cs-view-zRR-r4-ErU.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/bVc-eX-rgF-view-96F-jq-1i0.nib">
+      <LogicalName>Storyboard.storyboardc/bVc-eX-rgF-view-96F-jq-1i0.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/cGw-rl-B0d-view-wPk-ii-jm5.nib">
+      <LogicalName>Storyboard.storyboardc/cGw-rl-B0d-view-wPk-ii-jm5.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/g9V-AZ-dHU-view-yD6-2p-and.nib">
+      <LogicalName>Storyboard.storyboardc/g9V-AZ-dHU-view-yD6-2p-and.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/hlx-BR-Y1n-view-AHa-MP-Xns.nib">
+      <LogicalName>Storyboard.storyboardc/hlx-BR-Y1n-view-AHa-MP-Xns.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/kUh-i0-c0X-view-GUk-sC-3vv.nib">
+      <LogicalName>Storyboard.storyboardc/kUh-i0-c0X-view-GUk-sC-3vv.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/kgd-xc-CAK-view-hyR-8k-K2j.nib">
+      <LogicalName>Storyboard.storyboardc/kgd-xc-CAK-view-hyR-8k-K2j.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/kyh-Xw-P6k-view-0Du-UE-xtR.nib">
+      <LogicalName>Storyboard.storyboardc/kyh-Xw-P6k-view-0Du-UE-xtR.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/mainTabBar.nib">
+      <LogicalName>Storyboard.storyboardc/mainTabBar.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/pOM-o7-x1q-view-fZY-dh-gFk.nib">
+      <LogicalName>Storyboard.storyboardc/pOM-o7-x1q-view-fZY-dh-gFk.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/paQ-A8-1IC-view-urp-hE-Ihw.nib">
+      <LogicalName>Storyboard.storyboardc/paQ-A8-1IC-view-urp-hE-Ihw.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/tNT-HT-jcv-view-2Th-wB-gl9.nib">
+      <LogicalName>Storyboard.storyboardc/tNT-HT-jcv-view-2Th-wB-gl9.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/tlv-5J-Lk0-view-l8B-Ur-vqC.nib">
+      <LogicalName>Storyboard.storyboardc/tlv-5J-Lk0-view-l8B-Ur-vqC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/usF-Tr-jOd-view-enF-BV-BmN.nib">
+      <LogicalName>Storyboard.storyboardc/usF-Tr-jOd-view-enF-BV-BmN.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/xHq-vu-0gz-view-EXF-HT-qqy.nib">
+      <LogicalName>Storyboard.storyboardc/xHq-vu-0gz-view-EXF-HT-qqy.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Storyboard.storyboardc/yKv-Pr-g5a-view-Akx-60-xFA.nib">
+      <LogicalName>Storyboard.storyboardc/yKv-Pr-g5a-view-Akx-60-xFA.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

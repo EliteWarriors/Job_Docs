@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-129x29.png">
+      <LogicalName>AppIcon-129x29.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-129x29@2x.png">
+      <LogicalName>AppIcon-129x29@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-129x29@3x.png">
+      <LogicalName>AppIcon-129x29@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-140x40@2x.png">
+      <LogicalName>AppIcon-140x40@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-140x40@3x.png">
+      <LogicalName>AppIcon-140x40@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-157x57.png">
+      <LogicalName>AppIcon-157x57.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-157x57@2x.png">
+      <LogicalName>AppIcon-157x57@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-160x60@2x.png">
+      <LogicalName>AppIcon-160x60@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/AppIcon-160x60@3x.png">
+      <LogicalName>AppIcon-160x60@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone8.1-10.0.2/actool/bundle/Assets.car">
+      <LogicalName>Assets.car</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

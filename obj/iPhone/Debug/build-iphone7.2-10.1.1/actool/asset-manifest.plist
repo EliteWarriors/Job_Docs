@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/actool/bundle/Assets.car</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Profile/Profile.imageset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Volumes/Untitled/Src/JD.iPhone/Resources/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set name "Profile" is used by multiple image sets.</string>
+			<key>type</key>
+			<string>Conflicting Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Profile.imageset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Volumes/Untitled/Src/JD.iPhone/Resources/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set name "Profile" is used by multiple image sets.</string>
+			<key>type</key>
+			<string>Conflicting Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Pencil.imageset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Volumes/Untitled/Src/JD.iPhone/Resources/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set name "Pencil" is used by multiple image sets.</string>
+			<key>type</key>
+			<string>Conflicting Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Profile/Pencil.imageset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Volumes/Untitled/Src/JD.iPhone/Resources/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set name "Pencil" is used by multiple image sets.</string>
+			<key>type</key>
+			<string>Conflicting Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

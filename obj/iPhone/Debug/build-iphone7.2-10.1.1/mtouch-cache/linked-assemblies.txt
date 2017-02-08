@@ -1,0 +1,16 @@
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/System.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/System.Xml.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/System.Core.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/Microsoft.WindowsAzure.Mobile.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/System.Xml.Linq.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/mscorlib.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/Newtonsoft.Json.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/Mono.CSharp.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/Microsoft.CSharp.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/System.Net.Http.Primitives.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/JD.iPhone.exe
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/System.Net.Http.dll
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll

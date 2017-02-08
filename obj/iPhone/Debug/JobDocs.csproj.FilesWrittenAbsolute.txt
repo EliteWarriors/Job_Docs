@@ -1,0 +1,12 @@
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/Entitlements.plist
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/
+/Volumes/Untitled/Src/JD.iPhone/bin/iPhone/Debug/JD.iPhone.exe.mdb
+/Volumes/Untitled/Src/JD.iPhone/bin/iPhone/Debug/JD.iPhone.exe
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/JD.iPhone.exe
+/Volumes/Untitled/Src/JD.iPhone/obj/iPhone/Debug/JD.iPhone.exe.mdb
+/Volumes/Untitled/Src/JD.iPhone/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Volumes/Untitled/Src/JD.iPhone/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Volumes/Untitled/Src/JD.iPhone/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Volumes/Untitled/Src/JD.iPhone/bin/iPhone/Debug/System.Net.Http.Extensions.dll
+/Volumes/Untitled/Src/JD.iPhone/bin/iPhone/Debug/System.Net.Http.Primitives.dll
