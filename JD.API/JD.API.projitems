@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{65772732-4472-40DE-A2E1-599D2493DC8B}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>JD.API</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)JDService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\Category.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\CategoryItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\CategoryItemImage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\Job.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\JobResource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\JobRole.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\User.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\UserAuth.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\UserJob.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\CategoryType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataObjects\HourTrackerType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)DataObjects\" />
+  </ItemGroup>
+</Project>
